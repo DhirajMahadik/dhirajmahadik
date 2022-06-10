@@ -43,6 +43,7 @@ code {
 	font-size: 35px;
 	letter-spacing: 1px;
 	cursor: pointer;
+	margin-left: 10px;
 }
 span{
 	color: #f20f0f;
@@ -363,7 +364,7 @@ footer p:nth-child(2){
 .skils h3{
 	text-align: center ;
 	padding-top: 20px;
-	margin: 25px auto;
+	margin: 12px auto;
 	color: gold;
 	font-weight: 900;
 }
@@ -374,7 +375,7 @@ footer p:nth-child(2){
 	height: 100%;
 	margin: 1px 100px 300px  ;
 	display: flex;
-	padding-top: 200px;
+	padding-top: 75px;
 	
 }
 
@@ -382,8 +383,8 @@ footer p:nth-child(2){
 
 .skils{
 	background-color: #858585;
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 	display: inline-block;
 	margin: auto;
 	box-shadow: 0 0 30px rgb(0.3,0.3,0.3,0.3 );
