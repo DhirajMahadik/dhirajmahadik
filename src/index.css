@@ -43,6 +43,7 @@ code {
 	font-size: 35px;
 	letter-spacing: 1px;
 	cursor: pointer;
+	margin-left: 10px;
 }
 span{
 	color: #f20f0f;
