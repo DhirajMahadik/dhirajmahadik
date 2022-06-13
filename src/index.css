@@ -584,6 +584,15 @@ footer p:nth-child(2){
 }
 
 @media (max-width: 991px){
+	
+	#HeadingH1{
+		font-size: 53px;
+  		font-weight: bold;
+	}
+	
+	.content{
+		left: 2%;
+	}
 
 	#alertBody{
 		display: none;
